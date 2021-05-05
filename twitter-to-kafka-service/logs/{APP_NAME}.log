@@ -1,0 +1,17 @@
+2021-05-05 19:40:10 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on Ektas-MBP.fios-router.home with PID 22202 (/Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo/twitter-to-kafka-service/target/classes started by ektaarora in /Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo)
+2021-05-05 19:40:10 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-05-05 19:40:11 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.816 seconds (JVM running for 2.836)
+2021-05-05 19:40:11 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-05-05 19:40:11 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-05 19:43:44 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on Ektas-MBP.fios-router.home with PID 22261 (/Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo/twitter-to-kafka-service/target/classes started by ektaarora in /Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo)
+2021-05-05 19:43:44 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-05-05 19:43:45 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.53 seconds (JVM running for 2.431)
+2021-05-05 19:43:45 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-05-05 19:43:45 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello Microservices!
+2021-05-05 19:43:45 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-05 19:45:25 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on Ektas-MBP.fios-router.home with PID 22272 (/Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo/twitter-to-kafka-service/target/classes started by ektaarora in /Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo)
+2021-05-05 19:45:25 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.444 seconds (JVM running for 2.321)
+2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello Microservices!
+2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
