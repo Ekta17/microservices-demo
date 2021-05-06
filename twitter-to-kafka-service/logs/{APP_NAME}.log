@@ -15,3 +15,77 @@
 2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
 2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello Microservices!
 2021-05-05 19:45:26 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-05 20:33:00 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on Ektas-MBP.fios-router.home with PID 22843 (/Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo/twitter-to-kafka-service/target/classes started by ektaarora in /Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo)
+2021-05-05 20:33:00 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-05-05 20:33:01 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.656 seconds (JVM running for 2.745)
+2021-05-05 20:33:01 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-05-05 20:33:01 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello Microservices!
+2021-05-05 20:33:01 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-05 20:33:01 INFO  [Twitter Stream consumer /  [1][initializing]] twitter4j.TwitterStreamImpl - Establishing connection.
+2021-05-05 20:33:01 INFO  [main] c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-05 20:33:02 INFO  [Twitter Stream consumer /  [1][Establishing connection]] twitter4j.TwitterStreamImpl - Connection established.
+2021-05-05 20:33:02 INFO  [Twitter Stream consumer /  [1][Establishing connection]] twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-05-05 20:33:02 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text #Frühling #Outdoor #Indoor #Sommer #ebay #ebayseller #Mode #Klamotten #Freizeit #Kleidung #Herbst #Winter #Accessoires #Blickfang #Eyecatcher #Clothes #Spring #Bluse #Party #Cocktail #Business #Arbeit #Travel #Reisen #Shirt #Blouse #Flowers #Blumen  https://t.co/RiwUVnPhfZ
+2021-05-05 20:33:03 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @iamanbuu: " Traveling " 
+now on the new @Chillhopdotcom spring compilation ! 🧳
+
+Cop your vinyle here :
+https://t.co/rmvSwIn21I https://…
+2021-05-05 20:33:05 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @CBCScott: Calgary businessman Brett Wilson asks committee to delay the guide until next spring. He says it should not be an election is…
+2021-05-05 20:33:05 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text @CoachCHartman @clh_strength Think about a multi sport athlete. Fall, Winter, Spring sport no consistency and or no training in season for 4 years.
+2021-05-05 20:33:06 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text https://t.co/3h9Cpm7TQ1
+2021-05-05 20:33:06 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text This weekend at Spring commencement National Alumni President Dr. Mary Leigh Gillespie will officially welcome the Spring Class of 2021 to the UNA National Alumni Association. 
+
+Congratulations to the Spring Class of 2021. #RoarLions 🎉 https://t.co/kfXGoM3pz0
+2021-05-05 20:33:07 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @listhinker: spring dates with lisa 🌼 https://t.co/LwqDC1YoKk
+2021-05-05 20:33:07 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @seanhannity: **SERIOUSLY?! Psaki Tells Reporters SPRING 2021 Migrant Surge ‘Exacerbated by the Trump Administration.’** https://t.co/k5…
+2021-05-05 20:33:07 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text ❗ランキング：14位❗ (電源パーツ)
+
+「■RM750x -2018- CP-9020179-JP」
+メーカ:Corsair
+
+価格:¥19,444(09:33)
+
+https://t.co/eDSU2i0E5J
+2021-05-05 20:33:07 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text ランキング:5位 「日用品・衛生用品」 (09:33)
+
+IRIS 自転車スタンド　3台用 BYS-3
+
+価格:3,055円🔥
+
+https://t.co/AZLzjXdZeB
+2021-05-05 20:33:08 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text priestly druid regalia (referenced from heaven/gaia spring summer 2021 couture) #warcraft #worldofwarcraft #nightelf #kaldorei https://t.co/0gxuWzbodc
+2021-05-05 20:33:08 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Spring Creek #Golf Course is #hiringnow! Visit https://t.co/45vhHs20mf for a list of available positions. Apply now to be part of our #HersheyJobs team. 
+
+#JobSeekers #golfjobs https://t.co/ATWiBVUqCW
+2021-05-05 20:33:08 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Spring Tech & Home Refresh Giveaway https://t.co/pX22axfT0B via @brunchwork
+2021-05-05 20:33:09 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Spring cleaning may sound a little daunting, but the end result sure makes it worth the effort.  When starting in the bedroom, don't stop at the bedding, clean your pillows and mattress, too!  For some helpful tips and some guidance, head over to our blog: https://t.co/aVNHxurK7Z https://t.co/rJUkMVLtF5
+2021-05-05 20:33:09 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @Stedilnik: Dont mind me, testing the new twitter crop.
+
+Spring-summer 1943 https://t.co/suuljniv2g
+2021-05-05 20:33:10 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Spring cleanup with fresh pinestraw & a trim with ABA Landscaping LLC https://t.co/3pN455zscK
+2021-05-05 20:33:11 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @collin_james51: ⚠️ Final Spring Tape ⚠️
+Interior Offensive Lineman 
+6’3” 295 
+2.96 GPA May Grad 
+Looking for a fall home! 
+@CoachJPardi…
+2021-05-05 20:33:11 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @GNCD_YouTube: #GoldenChild (#골든차일드) Official MV's Focused Videos views count as of May 6, 12AM KST
+
+Spring Again (woolliment) - 943,231…
+2021-05-05 20:33:13 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @lunarlana_: ~ Lunar Spring ~ 
+
+New fun style available now! 🌸
+
+https://t.co/yV1HXdHhKe https://t.co/GUp7oGTxKR
+2021-05-05 20:33:14 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text @MiekWeek @mlbbowman That’s not what Bowman said. Contreras earned the job out of spring training. These are not children. The Braves could have explained to him their plans. Stay in the majors, until the MiLB season starts. It would have been nice reward for a great spring training.
+2021-05-05 20:33:14 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text @JackSpringFilm @grimsbytownlive Is this a #MerlotMoment Spring?
+2021-05-05 20:33:15 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @seanhannity: **SERIOUSLY?! Psaki Tells Reporters SPRING 2021 Migrant Surge ‘Exacerbated by the Trump Administration.’** https://t.co/k5…
+2021-05-05 20:33:16 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @HokiesFB: 𝙃𝙖𝙧𝙙 𝙃𝙖𝙩
+
+This morning, 62 of our guys were honored with hard hats for their overall performances this spring 👊
+
+📝 » https://…
+2021-05-05 20:33:16 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @kyuhosimp: Opening a bottled water business, under the brand “Water People”, in the middle of a drought.
+The water they are using is ex…
+2021-05-05 20:33:18 INFO  [SpringContextShutdownHook] c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!
