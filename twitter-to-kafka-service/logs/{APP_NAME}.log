@@ -8,3 +8,46 @@
 2021-05-12 18:40:11 INFO  [pool-1-thread-1] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Curabitur potenti. ut Suspendisse odio Kafka mollis. ut Curabitur vel,
 2021-05-12 18:40:21 INFO  [pool-1-thread-1] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Curabitur quis. Donec odio Curabitur vel, Java ut convallis potenti. Curabitur
 2021-05-12 18:40:31 INFO  [pool-1-thread-1] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Curabitur ut Suspendisse convallis odio Suspendisse Kafka Donec Suspendisse mollis. Curabitur Donec
+2021-05-12 18:42:27 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on Ektas-MBP.fios-router.home with PID 85129 (/Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo/twitter-to-kafka-service/target/classes started by ektaarora in /Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo)
+2021-05-12 18:42:27 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-05-12 18:42:28 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.688 seconds (JVM running for 2.725)
+2021-05-12 18:42:28 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-05-12 18:42:28 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello Microservices!
+2021-05-12 18:42:28 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-12 18:42:28 INFO  [Twitter Stream consumer /  [1][initializing]] twitter4j.TwitterStreamImpl - Establishing connection.
+2021-05-12 18:42:28 INFO  [main] c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-12 18:42:30 INFO  [Twitter Stream consumer /  [1][Establishing connection]] twitter4j.TwitterStreamImpl - Connection established.
+2021-05-12 18:42:30 INFO  [Twitter Stream consumer /  [1][Establishing connection]] twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-05-12 18:42:30 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @carmiico: 🌼🍓 SPRING LINE GIVEAWAY 🍓🌼
+
+2 winners get their any colour of the full set: a cardigan, a shirt, a pair of socks and a strawb…
+2021-05-12 18:42:30 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @bushontheradio: In terms of boardgame designers the lineup for #SDHistCon2021 is like Glastonbury '93! Some legends on the bill across…
+2021-05-12 18:42:31 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Gift for youuu 🎁
+
+4 ideas to celebrate your spring bday buddy 🎉 https://t.co/sCUIfQWspG
+2021-05-12 18:42:31 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @carmiico: 🌼🍓 SPRING LINE GIVEAWAY 🍓🌼
+
+2 winners get their any colour of the full set: a cardigan, a shirt, a pair of socks and a strawb…
+2021-05-12 18:42:31 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @WaltzGarden: Spring pink sky tonight. https://t.co/khRe0MYSK7
+2021-05-12 18:42:31 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @izzyxrts: Doing art commissions for a mid-low tier halo 
+
+LF: Lucky 2020, mermaid 2020, winter 2020, spring 2020, Halloween 2018, sprin…
+2021-05-12 18:42:32 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @AvexMusic: 【♪募集♪】
+五月病を吹っ飛ばせ！！憂鬱な気分を吹き飛ばしてくれる楽曲を大募集！
+※YouTubeにあがっているエイベックスの動画が対象です。
+投稿の際は、動画のURLを貼ってください！
+
+募集期間：5/12～5/16
+
+#avex #エイベックス…
+2021-05-12 18:42:32 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text https://t.co/hkQsxlOCM1
+2021-05-12 18:42:32 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @carmiico: 🌼🍓 SPRING LINE GIVEAWAY 🍓🌼
+
+2 winners get their any colour of the full set: a cardigan, a shirt, a pair of socks and a strawb…
+2021-05-12 18:42:33 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Shady Spring gets 2 on with 1 out, Sipes gets a K and Atticus Goodson tracks down a fly ball to end the threat.
+End 5
+Independence 1
+Shady Spring 0
+#wvprepbase
+2021-05-12 18:42:34 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Polka Dot Square Scarf Silk Feeling Headband Foulard Women Neckerchief Bandana Large Shawl Wraps Spring Neck Scarves#summer #white https://t.co/L6GpqKbg9S https://t.co/a8Lv3UXCtA
+2021-05-12 18:42:35 INFO  [SpringContextShutdownHook] c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!
