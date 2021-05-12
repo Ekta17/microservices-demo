@@ -1,0 +1,92 @@
+2021-05-07 09:59:15 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on Ektas-MBP.fios-router.home with PID 26469 (/Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo/twitter-to-kafka-service/target/classes started by ektaarora in /Users/ektaarora/Documents/microserviceUdemyCourse/microservices-demo)
+2021-05-07 09:59:15 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-05-07 09:59:16 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.86 seconds (JVM running for 3.095)
+2021-05-07 09:59:16 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-05-07 09:59:16 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello Microservices!
+2021-05-07 09:59:16 INFO  [main] c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-07 09:59:16 INFO  [Twitter Stream consumer /  [1][initializing]] twitter4j.TwitterStreamImpl - Establishing connection.
+2021-05-07 09:59:16 INFO  [main] c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-05-07 09:59:17 INFO  [Twitter Stream consumer /  [1][Establishing connection]] twitter4j.TwitterStreamImpl - Connection established.
+2021-05-07 09:59:17 INFO  [Twitter Stream consumer /  [1][Establishing connection]] twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-05-07 09:59:18 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @ESPNcricinfo: India's 20-man Test squad features most of the players who played a part in their glorious Australian summer and home spr…
+2021-05-07 09:59:18 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @shupure: #週プレ × #春のTGIFONLINE2021
+『#春のTGIF週プレ賞』開催🌼
+
+alma @alma___official 
+🔸小田切るる@alma_ruru_s2 
+￣￣￣￣￣￣￣￣￣￣￣￣￣
+RT＆いいねも審査対象です👍
+⚠️5/9(日)23…
+2021-05-07 09:59:18 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text @ggrapeangun Spring breeze
+2021-05-07 09:59:18 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Red Karen residing in American organized Food Fair to raise fund to support Spring Revolution. People from all over the world are diligently playing their parts to help 🇲🇲 free from Military Tyrants. #WhatsHappeningInMyanmar #May7Coup https://t.co/Q8dNO52q0s
+2021-05-07 09:59:18 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @CleaJalen: SPRING BALL 2021 6’5 230 LB TE 🙏🏾https://t.co/YXBaEqeCHG https://t.co/OWMf1FQGVC
+2021-05-07 09:59:18 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @soulDEF_JAYB: [Weibo]
+20210507 SAINTLAURENT圣罗兰 
+
+“Lim Jaebeom dressed in Saint Laurent 2021 Spring Summer collection by Anthony Vaccare…
+2021-05-07 09:59:19 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @KamraIshant: Day 4 - Solved problems related to loops .Got stuck at one question- (sum of even and odd digits in a number) but finally…
+2021-05-07 09:59:19 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @KamraIshant: Day 4 - Solved problems related to loops .Got stuck at one question- (sum of even and odd digits in a number) but finally…
+2021-05-07 09:59:19 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @KamraIshant: Day 4 - Solved problems related to loops .Got stuck at one question- (sum of even and odd digits in a number) but finally…
+2021-05-07 09:59:19 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Youths from Chan Aye Tharzan, Mandalay, staged “Note Strike” by portraying the messages of about the Spring Revolution. 
+
+#May7Coup 
+#WhatsHappeningInMyanmar https://t.co/0DeQwLsoGN
+2021-05-07 09:59:19 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text @AxtasiaBH I haven’t played the game in three days and can’t play in either of the spring tournament, but I’ll spar 🙃
+2021-05-07 09:59:20 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @cdramafan13: @XiaozhanUnion Xiao Zhan is like a spring breeze refreshing anything it touches #RosesforXiaoZhan #XiaoZhan
+2021-05-07 09:59:20 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text In #Meikhtila, Mandalay Division, a multi-stakeholder student protest was held on May 7 during a motorcycle strike and the anti-military Spring Revolution.
+#WhatsHappeningInMyanmar
+#May7Coup https://t.co/QJ0eJfiQ62
+2021-05-07 09:59:20 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @GridironImports: Congratulations to Tobias Rodlauer on his recent offer from Division 1 Abilene Christian University in Texas.  This po…
+2021-05-07 09:59:20 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @KamraIshant: Day 4 - Solved problems related to loops .Got stuck at one question- (sum of even and odd digits in a number) but finally…
+2021-05-07 09:59:20 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Junta terrorists have been murderering innocent civilians without caring about the 5 points consensus of @ASEAN.
+#May7Coup #WhatsHappeningInMyanmar
+#CrimesAgainstHumanity 
+#OpCCP https://t.co/ZoMqbPKkd3
+2021-05-07 09:59:20 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @ProfMattGV: It's time for the @WaterUWMadison Spring Symposium.  https://t.co/kBqgMEWL11
+2021-05-07 09:59:21 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @LAVIDAPRADA: out for lunch with friends during spring https://t.co/FIz20n4sFl
+2021-05-07 09:59:22 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @QCHooplife: Yessir love this hire hopefully he bring a new more uptempo style rocky has to many athletes to be looking like Allen an🙏🏿…
+2021-05-07 09:59:22 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text #WhatsHappeningInMyanmar #May7Coup https://t.co/4M43TpyRRJ
+2021-05-07 09:59:23 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @DoctoTechLife: This evening, 6PM Paris time, watch Camille Soetaert and Yann Texier tackle the @CodinGame spring challenge on our twitc…
+2021-05-07 09:59:23 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @UEALitFest: And that’s a wrap! Huge thanks for being part of UEA Live: Spring 2021. It's been wonderful to bring you this season's lite…
+2021-05-07 09:59:24 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text this dude has been fantastic in the league's most difficult division. a deserved POTW honor!
+2021-05-07 09:59:24 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @KamraIshant: Day 4 - Solved problems related to loops .Got stuck at one question- (sum of even and odd digits in a number) but finally…
+2021-05-07 09:59:25 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @shupure: #週プレ × #春のTGIFONLINE2021
+『#春のTGIF週プレ賞』開催🌼
+
+にゅ〜わ@new_i_dol 
+🔸もも@new_i_momo 
+￣￣￣￣￣￣￣￣￣￣￣￣￣
+RT＆いいねも審査対象です👍
+⚠️5/9(日)23:59〆
+
+⏬詳しい審査…
+2021-05-07 09:59:25 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Red Karen residing in American organized Food Fair to raise fund to support Spring Revolution. People from all over the world are diligently playing their parts to help 🇲🇲 free from Military Tyrants. #WhatsHappeningInMyanmar #May7Coup https://t.co/opZfeJ5p15
+2021-05-07 09:59:25 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Junta terrorists have been murderering innocent civilians without caring about the 5 points consensus of @ASEAN.
+#May7Coup #WhatsHappeningInMyanmar
+#CrimesAgainstHumanity 
+#OpCCP https://t.co/EuxTF36hVb
+2021-05-07 09:59:25 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @hannayuri_twt: The junta's armed forces destroyed Spring Revolution murals, a portrait of Daw Aung San Suu Kyi with “Spring Revolution”…
+2021-05-07 09:59:25 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text ALPINE Hand Made Genuine Vintage Leather Watch Strap with Quick Release Steel Spring Bars – Black, Brown and Tan in Sizes 18mm, 20mm, 22mm, 24mm (fits Wrist Size 6 1/4 inch to 8 inch) https://t.co/mTgaEdm66G
+2021-05-07 09:59:26 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @0227Hiroki: 楽しみに待っていて下さった皆さんすみません。
+2021-05-07 09:59:26 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Youths from Chan Aye Tharzan, Mandalay, staged �201CNote Strike�201D by portraying the messages of about the Spring Revolution.   #May7Coup  #WhatsHappeningInMyanmar https://t.co/CTSYdaRB8C
+2021-05-07 09:59:26 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Youths from Chan Aye Tharzan, Mandalay, staged �201CNote Strike�201D by portraying the messages of about the Spring Revolution.   #May7Coup  #WhatsHappeningInMyanmar https://t.co/mK6L7ig6ap
+2021-05-07 09:59:26 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text #WhatsHappeningInMyanmar #May7Coup https://t.co/44Ae1D9WU6
+2021-05-07 09:59:27 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @VR_Sidored: [金曜定期]
+ゲーム等のアカウントはこちら！
+気軽にフレンド申請お待ちしております！
+
+Switch：SW-5051-5469-7903
+Steam：VR_Sidored
+VRChat：VRsidored
+Discord：VRシドレッド#6769…
+2021-05-07 09:59:27 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Can't wait to watch you fly around this season! Congrats Kossi
+2021-05-07 09:59:27 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @nofeelingpage: Armed mufti were seen erasing the words “Spring Revolution” written at Kamayut 6th ward,Yangon. #WhatsHappeningInMyanmar…
+2021-05-07 09:59:27 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text RT @sfys_nn: Tw// blood,death
+VIDEO: 1/2 Ko Min Zin was shot and killed by Junta's terrorists while he was participating in Global Spring R…
+2021-05-07 09:59:28 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Korea: “Three Fingers” song written and sung by Seoul Music High School Students. While fully supporting Spring Revolution, they sincerely wish for the Victory of Myanmar people. Thank you, Seoul Music High School!
+#WhatsHappeningInMyanmar
+#May7Coup
+
+https://t.co/JOYbsQFiqR
+2021-05-07 09:59:28 INFO  [Twitter4J Async Dispatcher[0]] c.m.d.t.t.k.s.l.TwitterKafkaStaticListener - Twitter status with text Good luck to our baseball team today.  They play at 1pm at Spring Garden.  They must win to advance to the semi-finals. https://t.co/0s5UNqyCq3
+2021-05-07 09:59:28 INFO  [SpringContextShutdownHook] c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!
